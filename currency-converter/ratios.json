@@ -1,0 +1,16 @@
+{
+    "converter": [
+        {
+            "base_currency": "PLN",
+            "target_currency": "EUR",
+            "date_fetched": "2022-08-11",
+            "ratio": 0.213993
+        },
+        {
+            "base_currency": "PLN",
+            "target_currency": "GBP",
+            "date_fetched": "2022-08-11",
+            "ratio": 0.180472
+        }
+    ]
+}
